@@ -1,0 +1,20 @@
+{
+  "name": "docker-bash-scripts",
+  "version": "1.0.0",
+  "description": "Collection of bash scripts to help install docker.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rossque/docker-bash-scripts.git"
+  },
+  "keywords": [
+    "bash",
+    "docker"
+  ],
+  "author": "rossque",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rossque/docker-bash-scripts/issues"
+  },
+  "homepage": "https://github.com/rossque/docker-bash-scripts#readme",
+  "dependencies": {}
+}
